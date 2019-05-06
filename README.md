@@ -11,3 +11,5 @@ A car's make is the brand of the vehicle, while the model refers to the name of 
 View Inventory
 
 View the data in the table format and Sell the car.
+
+Front End Template https://www.w3schools.com/w3css/tryw3css_templates_analytics.htm
